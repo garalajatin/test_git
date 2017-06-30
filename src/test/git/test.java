@@ -7,7 +7,7 @@ public class test {
 	}
 	
 	public static String Hello(){
-		String name="jatin";
+		String name="jatin garala";
 		return name;
 	}
 	
