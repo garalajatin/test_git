@@ -12,7 +12,7 @@ public class test {
 	}
 	
 	private void getPhone() {
-		int num =123456789;
+		int num =9428;
 
 	}
 }
