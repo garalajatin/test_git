@@ -10,4 +10,10 @@ public class test {
 		String name="jatin";
 		return name;
 	}
+	
+	private void getAddress() {
+	
+		String addr="Ahmedabad";
+
+	}
 }
