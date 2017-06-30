@@ -10,4 +10,9 @@ public class test {
 		String name="jatin";
 		return name;
 	}
+	
+	private void getPhone() {
+		int num =123456789;
+
+	}
 }
