@@ -7,12 +7,13 @@ public class test {
 	}
 	
 	public static String Hello(){
-		String name="jatin";
+		String name="jatin garala";
+		String lastName="garala";
 		return name;
 	}
 	
 	private void getPhone() {
-		int num =9428;
+		int num =94287755;
 
 	}
 }
