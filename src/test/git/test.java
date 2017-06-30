@@ -7,8 +7,12 @@ public class test {
 	}
 	
 	public static String Hello(){
-		String name="jatin";
-		String lastname="patel";
+		String name="jatin garala";
 		return name;
+	}
+	
+	private void getPhone() {
+		int num =9428;
+
 	}
 }
