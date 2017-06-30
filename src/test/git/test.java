@@ -11,9 +11,8 @@ public class test {
 		return name;
 	}
 	
-	private void getAddress() {
-	
-		String addr="Ahmedabad";
+	private void getPhone() {
+		int num =123456789;
 
 	}
 }
