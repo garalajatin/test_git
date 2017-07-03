@@ -8,6 +8,7 @@ public class test {
 	
 	public static String Hello(){
 		String name="jatin garala";
+		String lastName="garala";
 		return name;
 	}
 	
