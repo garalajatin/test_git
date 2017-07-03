@@ -13,6 +13,7 @@ public class test {
 	
 	private void getPhone() {
 		int num =94287755;
+		int phone= 123456;
 
 	}
 } 
