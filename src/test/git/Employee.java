@@ -7,4 +7,9 @@ public class Employee {
 		System.out.println("employee..........");
 
 	}
+	
+	public Employee() {
+	
+		System.out.println("this is employee contstuctor............");
+	}
 }
